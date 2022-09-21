@@ -1,0 +1,19 @@
+columnSuffix: mggvankj
+contentColumnType: text
+fieldGroup: ecb8efa2-01eb-44a1-bbea-8fb97dba11c4 # Common
+handle: excerpt
+instructions: 'Enter excerpt'
+name: Excerpt
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

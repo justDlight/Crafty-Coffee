@@ -1,0 +1,19 @@
+columnSuffix: lmebujqm
+contentColumnType: text
+fieldGroup: c83f959b-c87b-4851-8f97-09dda3d1b02b # Drinks
+handle: introduction
+instructions: 'Short sentence on top of page. '
+name: Introduction
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

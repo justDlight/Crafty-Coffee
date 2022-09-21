@@ -1,0 +1,27 @@
+columnSuffix: pikmziuu
+contentColumnType: text
+fieldGroup: c83f959b-c87b-4851-8f97-09dda3d1b02b # Drinks
+handle: pageCopy
+instructions: 'Insert base text here'
+name: 'Page Copy'
+searchable: true
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

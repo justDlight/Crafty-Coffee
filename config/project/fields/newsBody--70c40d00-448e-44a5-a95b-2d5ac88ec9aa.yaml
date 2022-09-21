@@ -1,0 +1,27 @@
+columnSuffix: rjhrafuj
+contentColumnType: text
+fieldGroup: 4552f79d-4711-4314-a56c-556c23f10753 # News
+handle: newsBody
+instructions: 'Enter the news body'
+name: 'News Body'
+searchable: true
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

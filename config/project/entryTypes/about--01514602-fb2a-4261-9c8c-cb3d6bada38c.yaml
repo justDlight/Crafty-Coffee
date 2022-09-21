@@ -1,0 +1,91 @@
+fieldLayouts:
+  982bc82b-5c57-4320-a290-da897f423a3e:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: 'insert page title'
+            label: 'About title'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 0d458f1f-476c-4ad9-a1d6-75065989e752
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 40d2bc50-3fbd-40a4-8612-e29a750cb631 # Subtitle
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 82e26de8-9a0e-4078-84ec-a06dfca9cc3a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: fa67097c-5c5f-4bab-a654-14a50b54cd77 # Page Intro
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 120f3133-eb62-42bf-8305-3ac9f68014e5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a173c806-2903-432b-a704-1ae052f4c91b # Page Copy
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5fa324ef-e4e6-46ff-9454-f8c502fc3836
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 2ac8da06-cb7b-487d-8ee5-f52d97c1d04c # Drink Images
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 81c8e8a7-e44b-4ea3-a7b7-4a33a7ca8f20
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d7be2fcb-1875-439e-bd0d-49fbfeda9cde
+        userCondition: null
+handle: about
+hasTitleField: true
+name: About
+section: a0b2ef9e-90a3-4e2c-9880-0b63da3ebee5 # About Crafty Coffee
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

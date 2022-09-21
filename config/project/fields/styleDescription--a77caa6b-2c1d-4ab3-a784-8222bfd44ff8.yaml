@@ -1,0 +1,19 @@
+columnSuffix: iyyjmcpl
+contentColumnType: text
+fieldGroup: 394f9abc-4b27-4138-aa30-d0a8a08d01ce # Styles
+handle: styleDescription
+instructions: null
+name: 'Style Description'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

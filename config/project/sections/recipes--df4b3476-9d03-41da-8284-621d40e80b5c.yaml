@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: recipes
+name: Recipes
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  2aa00d3f-23ab-4f2a-b950-3e6a10e99aec: # Craft
+    enabledByDefault: true
+    hasUrls: true
+    template: recipes/_entry
+    uriFormat: 'recipes/{slug}'
+type: channel

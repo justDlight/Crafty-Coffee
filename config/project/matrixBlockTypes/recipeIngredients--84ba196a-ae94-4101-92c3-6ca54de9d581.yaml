@@ -1,0 +1,85 @@
+field: a96b2e64-4740-439e-9369-99916454625c # Recipe Contents
+fieldLayouts:
+  77a90705-8cb0-4091-8958-f6a20cce802e:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e9986ef0-dd4e-45f4-b6d6-3a27620fa7e7 # Ingredients
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1f372bdc-6c2c-4ef4-a3f8-6c8d9c8522a4
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 2fed86c6-a97f-48fc-87c6-086a4970e7bc
+        userCondition: null
+fields:
+  e9986ef0-dd4e-45f4-b6d6-3a27620fa7e7: # Ingredients
+    columnSuffix: fafjiymu
+    contentColumnType: text
+    fieldGroup: null
+    handle: ingredients
+    instructions: null
+    name: Ingredients
+    searchable: true
+    settings:
+      addRowLabel: 'Add a row'
+      columnType: text
+      columns:
+        __assoc__:
+          -
+            - col1
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Amount
+                -
+                  - handle
+                  - amount
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+          -
+            - col2
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Ingredient
+                -
+                  - handle
+                  - ingredient
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+      defaults:
+        -
+          __assoc__:
+            -
+              - col1
+              - ''
+            -
+              - col2
+              - ''
+      maxRows: null
+      minRows: null
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Table
+handle: recipeIngredients
+name: 'Recipe Ingredients'
+sortOrder: 5

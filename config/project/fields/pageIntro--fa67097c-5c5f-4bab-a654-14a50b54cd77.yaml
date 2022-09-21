@@ -1,0 +1,19 @@
+columnSuffix: jlkmfrui
+contentColumnType: text
+fieldGroup: 7f51ed3d-1141-468c-80a6-b8ac334e239a # About
+handle: pageIntro
+instructions: 'Enter the introduction'
+name: 'Page Intro'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

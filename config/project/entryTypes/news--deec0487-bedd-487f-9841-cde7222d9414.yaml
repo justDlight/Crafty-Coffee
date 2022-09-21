@@ -1,0 +1,67 @@
+fieldLayouts:
+  6b79db68-27fc-4723-9114-363468d8ba6d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 403edee3-f61c-4d15-bce4-199210868637 # Excerpt
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ec976368-4c16-4192-ae9e-851cdbe8ed5e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 70c40d00-448e-44a5-a95b-2d5ac88ec9aa # News Body
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c1e5b55c-f6d1-4129-86f6-feee4cd060de
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: 'title of news'
+            label: 'News title'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 216571aa-b16a-41c6-954e-fb00db9c8fd8
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 0a1159a0-1fc2-4e37-909b-d2a3a80e2692
+        userCondition: null
+handle: news
+hasTitleField: false
+name: News
+section: 90450ecb-f654-450c-b9d9-e642c955c1a7 # News
+sortOrder: 1
+titleFormat: 'News Title'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
